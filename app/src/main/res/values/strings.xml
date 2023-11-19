@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Serial Connect</string>
+    <string-array name="options">
+        <item>-Choose the time</item>
+        <item>15min</item>
+        <item>10min</item>
+        <item>05min</item>
+    </string-array>
+</resources>
